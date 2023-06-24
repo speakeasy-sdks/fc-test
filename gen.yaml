@@ -1,4 +1,9 @@
 configVersion: 1.0.0
+management:
+  docChecksum: aee53c50f8689e806cf01b5e3220ee85
+  docVersion: 1.0.2
+  speakeasyVersion: 1.50.1
+  generationVersion: 2.43.2
 generation:
   comments:
     disableComments: false
@@ -8,7 +13,7 @@ generation:
   singleTagPerOp: false
   tagNamespacingDisabled: false
 typescript:
-  version: 0.0.1
+  version: 1.0.0
   author: corn
   maxMethodParams: 0
   packageName: fc-test
