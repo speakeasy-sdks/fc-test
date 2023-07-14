@@ -18,6 +18,8 @@ yarn add https://github.com/speakeasy-sdks/fc-test
 
 ## SDK Example Usage
 <!-- Start SDK Example Usage -->
+
+
 ```typescript
 import { FcTest } from "fc-test";
 import { GetRatesResponse } from "fc-test/dist/sdk/models/operations";
